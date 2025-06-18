@@ -54,7 +54,7 @@ const Navbar = ({ search, setSearch }) => {
                 letterSpacing: 1,
               }}
             >
-              Product Search
+              Product Detail
             </Typography>
           </Box>
           <Box
